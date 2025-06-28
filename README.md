@@ -1,6 +1,6 @@
 ## Hi, I'm Gopika 👋
 
-# 🌸 Welcome to My First GitHub Repository!
+# 🌸 Welcome to My GitHub Profile!
 
 This is where my journey into the world of coding begins.  
 From writing *"Hello World"* to solving real logic problems,  
